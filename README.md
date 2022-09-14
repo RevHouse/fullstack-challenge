@@ -6,7 +6,7 @@ El objetivo de este reto es evaluar tu dominio en el desarrollo fullstack: su or
 
 ## Reglas
 
-1. Tu código debe estar disponible en un repositorio público o privado, en tu github personal.
+1. Tu código debe estar disponible en un repositorio público, en tu github personal.
 2. Envía el link a dev@revhouse.io
 3. Para el backend, debes usar node.
 4. Para el frontend, debes usuar React.
